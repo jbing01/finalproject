@@ -1,0 +1,65 @@
+
+h1 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;}
+
+h2{
+   text-align: center; 
+}
+
+body {background-image: url(../css/images/glacierflower.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:darkgreen;
+    padding: 10%;
+    font-size: 24px;
+    border:2px black;
+  
+    justify-content: center;
+    margin: auto
+    
+
+}
+p{color: rebeccapurple;
+    text-align: center;
+    border: 5px; color: white;
+    background-color: burlywood;
+
+
+}
+.bold {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+}
+
+.black {
+    color: black;
+}
+
+.box {
+    border: 2px solid black; 
+    background-color: lightgray; 
+    padding: 10px;
+    margin-bottom: 50px; 
+    width: fit-content;
+  
+  
+}
+
+    .imgalign {
+        display: flex;
+        justify-content: right;
+        align-items: right;
+    }
+
+    .text {
+        width: 70%; 
+        
+     
+
+      }
+      .image {
+        width: 30%;
+        
+        margin-left: 20px;
+      }
